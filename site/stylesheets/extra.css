@@ -1,0 +1,39 @@
+:root {
+  --md-primary-fg-color:        #000000;
+  --md-primary-fg-color--dark:  #0B5DE7;
+  --md-default-fg-color--light: #343a40;
+}
+
+h1 {
+  font-family: 'Brown-Bold';
+  font-size: 46px;
+  font-weight: 500;
+  line-height: 1.2;
+  color: black;
+}
+
+h2 {
+  font-family: 'Brown-Bold';
+  font-size: 40px;
+  color: #0B5DE7;
+}
+
+@font-face {
+    font-family: 'Brown-Bold';
+    src: url('/fonts/Brown-Bold.eot?#iefix') format('embedded-opentype'),  url('/fonts/Brown-Bold.otf')  format('opentype'),
+         url('/fonts/Brown-Bold.woff') format('woff'), url('/fonts/Brown-Bold.ttf')  format('truetype'), url('/fonts/Brown-Bold.svg#Brown-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'Brown-Light';
+  src: url('/fonts/Brown-Light.eot?#iefix') format('embedded-opentype'),  url('/fonts/Brown-Light.otf')  format('opentype'),
+	     url('/fonts/Brown-Light.woff') format('woff'), url('/fonts/Brown-Light.ttf')  format('truetype'), url('/fonts/Brown-Light.svg#Brown-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body, input {
+  font-family: "Brown-Light", -apple-system, Helvetica, Arial, sans-serif;
+}
