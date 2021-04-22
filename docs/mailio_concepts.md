@@ -1,7 +1,5 @@
 # Mailio Concepts
 
-We believe both transport and storage of your emails are equally important to protect you from the outside world as well as from ourselves. 
-
 ## End-to-End Encryption
 
 ![Claim email](/img/img-trust.svg){: .center}
