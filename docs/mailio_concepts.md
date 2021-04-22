@@ -2,7 +2,7 @@
 
 ## End-to-End Encryption
 
-![Claim email](/img/img-trust.svg){: .center}
+![Claim email](img/img-trust.svg){: .center}
 
 If you choose to use end-to-end encryption be aware that this will work only within `Mailio ecosystem`. This is the default mode when sending from `@mail.io` address to another `@mail.io` address. 
 
@@ -14,13 +14,13 @@ If you choose to use end-to-end encryption be aware that this will work only wit
 
 ## Cryptographic handshakes
 
-![Handshakes](/img/img-handshake.svg){: .center}
+![Handshakes](img/img-handshake.svg){: .center}
 
 Cryptographic handshakes is a tool built for you to control the rules of communication. You can choose that someones emails are important to you. If those emails become of no importance after a while use Cryptographic handshakes to mark that in our system. 
 
 ## VIP introductions
 
-![Handshakes](/img/img-inbox.svg){: .center}
+![Handshakes](img/img-inbox.svg){: .center}
 
 VIP introductions is email control on steroids. 
 

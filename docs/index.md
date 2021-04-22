@@ -25,7 +25,7 @@ In your browser navigate to [Registration](https://mail.io/register){: .md-butto
 
 Insert the email you've reserved (example: `igor20`):
 
-![Claim email](/img/mailio_claim.png)
+![Claim email](img/mailio_claim.png)
 
 > If the entered email was reserved, then `Claim` button should appear, otherwise check your reserved Mailio email.
 
